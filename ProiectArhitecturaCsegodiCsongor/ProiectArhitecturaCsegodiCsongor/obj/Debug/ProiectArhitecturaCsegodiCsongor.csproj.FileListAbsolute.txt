@@ -1,0 +1,7 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\ProiectArhitecturaCsegodiCsongor\ProiectArhitecturaCsegodiCsongor\bin\Debug\ProiectArhitecturaCsegodiCsongor.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\ProiectArhitecturaCsegodiCsongor\ProiectArhitecturaCsegodiCsongor\bin\Debug\ProiectArhitecturaCsegodiCsongor.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\ProiectArhitecturaCsegodiCsongor\ProiectArhitecturaCsegodiCsongor\bin\Debug\ProiectArhitecturaCsegodiCsongor.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\ProiectArhitecturaCsegodiCsongor\ProiectArhitecturaCsegodiCsongor\obj\Debug\ProiectArhitecturaCsegodiCsongor.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\ProiectArhitecturaCsegodiCsongor\ProiectArhitecturaCsegodiCsongor\obj\Debug\ProiectArhitecturaCsegodiCsongor.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\ProiectArhitecturaCsegodiCsongor\ProiectArhitecturaCsegodiCsongor\obj\Debug\ProiectArhitecturaCsegodiCsongor.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\ProiectArhitecturaCsegodiCsongor\ProiectArhitecturaCsegodiCsongor\obj\Debug\ProiectArhitecturaCsegodiCsongor.pdb
