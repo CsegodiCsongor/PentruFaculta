@@ -20,9 +20,9 @@ namespace ProiectArhitecturaCsegodiCsongor
         {
             Console.Write("Introduceti numarul care vreti sa fie transformat:");
             nrInString = Console.ReadLine();
-            Console.Write("Intrudeci din ce baza este numarul[0,35]:");
+            Console.Write("Intrudeci din ce baza este numarul[0,36]:");
             bazaOrigin = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Introducei in ce baza vreti sa fie transormat numarul[0,35]:");
+            Console.Write("Introducei in ce baza vreti sa fie transormat numarul[0,36]:");
             bazaRezult = Convert.ToInt32(Console.ReadLine());
         }
 
