@@ -1,2 +1,2 @@
 # PentruFaculta
-Doar scoala/
+Doar scoala
