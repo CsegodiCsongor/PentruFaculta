@@ -1,0 +1,7 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache

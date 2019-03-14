@@ -1,0 +1,9 @@
+ld [x], %r1
+ld [y], %r2
+call add_1
+st %r3, [z]
+x: 53
+y: 10
+z: 0
+add_1: addcc %r1, %r2, %r3
+jmpl %r15 + 4, %r0

@@ -1,0 +1,10 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\bin\Debug\EmulatorARC.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\bin\Debug\EmulatorARC.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\bin\Debug\EmulatorARC.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\obj\Debug\EmulatorARC.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\obj\Debug\EmulatorARC.Form1.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\obj\Debug\EmulatorARC.Properties.Resources.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\obj\Debug\EmulatorARC.csproj.GenerateResource.Cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\obj\Debug\EmulatorARC.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\obj\Debug\EmulatorARC.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\EmulatorARC\EmulatorARC\obj\Debug\EmulatorARC.pdb
