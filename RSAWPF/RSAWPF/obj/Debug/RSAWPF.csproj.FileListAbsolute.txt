@@ -1,0 +1,15 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\bin\Debug\RSAWPF.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\bin\Debug\RSAWPF.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\bin\Debug\RSAWPF.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\MainWindow.g.cs
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\App.g.cs
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF_MarkupCompile.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF_MarkupCompile.lref
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\MainWindow.baml
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF.g.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF.Properties.Resources.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF.csproj.GenerateResource.Cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\RSAWPF\RSAWPF\obj\Debug\RSAWPF.pdb
