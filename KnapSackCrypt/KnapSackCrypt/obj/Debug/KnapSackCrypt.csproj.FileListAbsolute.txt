@@ -1,0 +1,15 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\bin\Debug\KnapSackCrypt.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\bin\Debug\KnapSackCrypt.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\bin\Debug\KnapSackCrypt.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\MainWindow.g.cs
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\App.g.cs
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt_MarkupCompile.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt_MarkupCompile.lref
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\MainWindow.baml
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt.g.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt.Properties.Resources.resources
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt.csproj.GenerateResource.Cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\KnapSackCrypt\KnapSackCrypt\obj\Debug\KnapSackCrypt.pdb
