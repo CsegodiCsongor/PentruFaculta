@@ -1,0 +1,7 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\UseItForAll\UseItForAll\bin\Debug\UseItForAll.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\UseItForAll\UseItForAll\bin\Debug\UseItForAll.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\UseItForAll\UseItForAll\bin\Debug\UseItForAll.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\UseItForAll\UseItForAll\obj\Debug\UseItForAll.csprojAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\UseItForAll\UseItForAll\obj\Debug\UseItForAll.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\UseItForAll\UseItForAll\obj\Debug\UseItForAll.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\UseItForAll\UseItForAll\obj\Debug\UseItForAll.pdb

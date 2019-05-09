@@ -1,0 +1,7 @@
+c:\users\win\documents\visual studio 2017\Projects\MetodeAvansateTeste\MetodeAvansateTeste\bin\Debug\MetodeAvansateTeste.exe.config
+c:\users\win\documents\visual studio 2017\Projects\MetodeAvansateTeste\MetodeAvansateTeste\bin\Debug\MetodeAvansateTeste.exe
+c:\users\win\documents\visual studio 2017\Projects\MetodeAvansateTeste\MetodeAvansateTeste\bin\Debug\MetodeAvansateTeste.pdb
+c:\users\win\documents\visual studio 2017\Projects\MetodeAvansateTeste\MetodeAvansateTeste\obj\Debug\MetodeAvansateTeste.csprojResolveAssemblyReference.cache
+c:\users\win\documents\visual studio 2017\Projects\MetodeAvansateTeste\MetodeAvansateTeste\obj\Debug\MetodeAvansateTeste.csproj.CoreCompileInputs.cache
+c:\users\win\documents\visual studio 2017\Projects\MetodeAvansateTeste\MetodeAvansateTeste\obj\Debug\MetodeAvansateTeste.exe
+c:\users\win\documents\visual studio 2017\Projects\MetodeAvansateTeste\MetodeAvansateTeste\obj\Debug\MetodeAvansateTeste.pdb

@@ -1,0 +1,7 @@
+C:\Users\win\Documents\Visual Studio 2017\Projects\CsegodiCsongorPOPO\CsegodiCsongorPOPO\bin\Debug\CsegodiCsongorPOPO.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\CsegodiCsongorPOPO\CsegodiCsongorPOPO\bin\Debug\CsegodiCsongorPOPO.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\CsegodiCsongorPOPO\CsegodiCsongorPOPO\bin\Debug\CsegodiCsongorPOPO.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\CsegodiCsongorPOPO\CsegodiCsongorPOPO\obj\Debug\CsegodiCsongorPOPO.csprojResolveAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CsegodiCsongorPOPO\CsegodiCsongorPOPO\obj\Debug\CsegodiCsongorPOPO.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\CsegodiCsongorPOPO\CsegodiCsongorPOPO\obj\Debug\CsegodiCsongorPOPO.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\CsegodiCsongorPOPO\CsegodiCsongorPOPO\obj\Debug\CsegodiCsongorPOPO.pdb
