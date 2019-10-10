@@ -1,0 +1,10 @@
+C:\Users\win\Source\Repos\CellularNice\CellularNice\bin\Debug\CellularNice.exe.config
+C:\Users\win\Source\Repos\CellularNice\CellularNice\bin\Debug\CellularNice.exe
+C:\Users\win\Source\Repos\CellularNice\CellularNice\bin\Debug\CellularNice.pdb
+C:\Users\win\Source\Repos\CellularNice\CellularNice\obj\Debug\CellularNice.csprojAssemblyReference.cache
+C:\Users\win\Source\Repos\CellularNice\CellularNice\obj\Debug\CellularNice.Form1.resources
+C:\Users\win\Source\Repos\CellularNice\CellularNice\obj\Debug\CellularNice.Properties.Resources.resources
+C:\Users\win\Source\Repos\CellularNice\CellularNice\obj\Debug\CellularNice.csproj.GenerateResource.cache
+C:\Users\win\Source\Repos\CellularNice\CellularNice\obj\Debug\CellularNice.csproj.CoreCompileInputs.cache
+C:\Users\win\Source\Repos\CellularNice\CellularNice\obj\Debug\CellularNice.exe
+C:\Users\win\Source\Repos\CellularNice\CellularNice\obj\Debug\CellularNice.pdb
